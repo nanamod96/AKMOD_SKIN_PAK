@@ -1,3 +1,3 @@
-cd $HOME/AKMOD_SKIN
+cd $HOME/AKMOD_SKIN_PAK
 chmod +x menu
 ./menu
